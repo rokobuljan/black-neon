@@ -1,0 +1,21 @@
+{
+  "name": "black-neon",
+  "displayName": "Black Neon",
+  "description": "Black Neon - Vibrant VSCode theme. Best for high contrast and battery life",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Neon",
+        "uiTheme": "hc-black",
+        "path": "./themes/black-neon-color-theme.json"
+      }
+    ]
+  }
+}
